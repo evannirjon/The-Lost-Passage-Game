@@ -1,3 +1,15 @@
+
+
+https://github.com/user-attachments/assets/22e3f753-07d0-4f40-9b98-684335677f84
+
+
+
+
+
+
+
+
+
 # Lost_Passage
 # The Lost Passage
 
@@ -225,3 +237,7 @@ From the menu, the player can:
 - Collect Chrono Crystals to increase the remaining time.
 - Collect Hearts to restore hull integrity.
 - Keep moving and avoid hazards throughout the passage.
+
+
+https://github.com/user-attachments/assets/fd15a9f7-9e19-45db-a26a-590527b46dbe
+
