@@ -6,6 +6,9 @@ https://github.com/user-attachments/assets/b4e86998-7599-4754-8409-79ef38194749
 
 The Lost Passage is a 2D game developed using C++ and the Raylib graphics library. This project represents our collaborative effort to explore game development, strengthen our programming skills, and gain practical experience in building interactive applications.
 
+## 🎮 Play in Browser
+
+[![Play Game](https://img.shields.io/badge/Play-Game_Online-brightgreen?style=for-the-badge)](https://evannirjon.github.io/The-Lost-Passage-Game/)
 
 ## Play in Browser
 
