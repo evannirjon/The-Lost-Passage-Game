@@ -90,18 +90,11 @@ We intend to continue improving the project as we gain more experience in game d
 
 ## Authors
 
-**Evan Nirjon**  
-GITHUB : https://github.com/evannirjon
+- **[Evan Nirjon](https://github.com/evannirjon)**
+- **[Tasnim Islam](https://github.com/25tasnimislam)**
 
-**Tasnim Islam** 
-GITHUB : https://github.com/25tasnimislam
+This project was collaboratively developed by Evan Nirjon and Tasnim Islam as part of our learning experience in C++ programming and game development with Raylib.
 
-
-This project was collaboratively developed by Tasnim Islam and Evan Nirjon as part of our learning experience in C++ programming and game development with Raylib.
-
-## License
-
-No license has been specified for this repository yet. Until a license is added, the project remains subject to the default copyright protections. If you intend to allow others to use, modify, or distribute the code, consider adding an appropriate open-source license.
 
 ## Dependencies and Development Environment
 
