@@ -1,6 +1,8 @@
 # Lost_Passage Game UI and Simulation
 
-https://github.com/user-attachments/assets/22e3f753-07d0-4f40-9b98-684335677f84
+https://github.com/user-attachments/assets/b4e86998-7599-4754-8409-79ef38194749
+
+
 
 
 
@@ -238,6 +240,4 @@ From the menu, the player can:
 - Collect Hearts to restore hull integrity.
 - Keep moving and avoid hazards throughout the passage.
 
-
-https://github.com/user-attachments/assets/fd15a9f7-9e19-45db-a26a-590527b46dbe
 
