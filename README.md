@@ -1,21 +1,11 @@
-# Lost_Passage Game UI and Simulation
+# Lost_Passage
 
+# The Lost Passage
+# Lost_Passage Game UI and Simulation
 https://github.com/user-attachments/assets/b4e86998-7599-4754-8409-79ef38194749
 
-
-
-
-
-
-
-
-
-
-
-# Lost_Passage
-# The Lost Passage
-
 The Lost Passage is a 2D game developed using C++ and the Raylib graphics library. This project represents our collaborative effort to explore game development, strengthen our programming skills, and gain practical experience in building interactive applications.
+
 
 ## About the Project
 
@@ -95,6 +85,10 @@ We intend to continue improving the project as we gain more experience in game d
 
 This project was collaboratively developed by Evan Nirjon and Tasnim Islam as part of our learning experience in C++ programming and game development with Raylib.
 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 ## Dependencies and Development Environment
