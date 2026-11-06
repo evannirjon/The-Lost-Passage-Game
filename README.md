@@ -96,6 +96,7 @@ We intend to continue improving the project as we gain more experience in game d
 This project was collaboratively developed by Evan Nirjon and Tasnim Islam as part of our learning experience in C++ programming and game development with Raylib.
 
 
+
 ## Dependencies and Development Environment
 
 The Lost Passage was developed using C++ and Raylib on Windows. The development environment includes MSYS2 UCRT64, MinGW-w64 GCC, and Visual Studio Code.
